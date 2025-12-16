@@ -20,8 +20,8 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/starseeker-01/nutrilens-ai.git
-cd nutrilens-ai
+git clone https://github.com/Usairc/NutriLens.git
+cd NutriLens
 
 # Install dependencies
 pip install -r requirements.txt
